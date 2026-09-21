@@ -10,7 +10,7 @@ class Settings:
     """
     Project_name: str = "AI Document Analyzer"
     Version: str = "1.0.0"
-    Gemini_API_Key: str | None = os.getenv("GEMINI_API_KEY")
+    GEMINI_API_KEY: str | None = os.getenv("GEMINI_API_KEY")
 
 settings = Settings()
 
