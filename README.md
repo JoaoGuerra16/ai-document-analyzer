@@ -1,6 +1,24 @@
-# AI Document Analyzer (RAG System)
+# AI Document Analyzer
 
-An enterprise-grade Retrieval-Augmented Generation (RAG) system designed to extract, process, and interact with complex PDF documents. 
+## 📌 Project Overview
+This project is currently under active development.
 
-This project demonstrates the integration of Generative AI with vector databases to create a contextual document reading assistant suitable for corporate environments, analyzing contracts, technical manuals, and reports.
+It aims to build a **full-stack Retrieval-Augmented Generation (RAG) system** for PDF document analysis, enabling users to upload documents and interact with them through a conversational AI interface.
 
+---
+
+## 🚀 Tech Stack
+- **Backend:** FastAPI (Python)
+- **Frontend:** React
+- **AI & Data:** LLMs, ChromaDB (Vector Database)
+- **Architecture:** RAG (Retrieval-Augmented Generation)
+
+---
+
+## 🎯 Goal
+Build a production-ready AI system capable of:
+- Understanding and indexing documents  
+- Retrieving relevant context  
+- Generating accurate, context-aware responses  
+
+---
